@@ -1,0 +1,5 @@
+﻿  pole.cpp
+D:\ks\ppk3\pole\pole\pole.cpp(16,21): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+D:\ks\ppk3\pole\pole\pole.cpp(27,23): warning C4101: "x1": lokalna zmienna, do której nie istnieje odwołanie
+D:\ks\ppk3\pole\pole\pole.cpp(27,27): warning C4101: "x2": lokalna zmienna, do której nie istnieje odwołanie
+  pole.vcxproj -> D:\ks\ppk3\pole\Debug\pole.exe
